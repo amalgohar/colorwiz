@@ -51,7 +51,7 @@ class DALLEApp: # Start DALLEEApp Class
         self.root = root
         root.geometry("550x740")
         root.resizable(True, True)
-        self.root.title("DALL·E Text to Image Generator")
+        self.root.title("ColorWhiz: Coloring Book Generator")
         frame = customtkinter.CTkFrame(master=root, width=550,
                                        height=740, corner_radius=10,
                                        border_width=1)
