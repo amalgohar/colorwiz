@@ -40,3 +40,18 @@ Crafting effective and imaginative prompts is a key aspect of generating captiva
  `/imagine prompt: coloring pages for adults, a cat, in the style of Anime, Straight Lines, Medium Detail, Celtic knotwork background, Black and white, No Shading, --ar 9:16`
 
 # ▶️ Demo
+1. The user is able to enter subject matter for the fun fact and image, i.e., a penguin in this demo, as well as the style wanted, number of images, and image size.
+
+   <img src="https://github.com/amalgohar/colorwhiz/blob/main/demo/GUI.jpg" width="400" alt="GUI Sample">
+
+2. After clicking the *Generate Images and Seperate PDFS* button, the image as well as a PDF containing that image is generated. Here we see all the seperate PDFs that have been generated, as well as the penguin one we just generated.
+
+   <img src="https://github.com/amalgohar/colorwhiz/blob/main/demo/all-pdfs.jpg" width="700" alt="All PDFS in Folder">
+
+3. Here we see a closer look at the penguin PDF that was generated. 
+
+   <img src="https://github.com/amalgohar/colorwhiz/blob/main/demo/penguin.jpg" width="400" alt="Penguin PDF">
+
+4. After the *Create the Book from the Single PDFs* button is clicked, all the individual PDFs are merged, and the final coloring book is created. Here is a final look at what the coloring book looks like after this button has been clicked.
+
+   <img src="https://github.com/amalgohar/colorwhiz/blob/main/demo/coloringbook-output.gif" width="400" alt="Coloring Book GIF">
